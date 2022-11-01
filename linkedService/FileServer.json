@@ -1,0 +1,17 @@
+{
+	"name": "FileServer",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\Users\\mahen\\OneDrive\\Desktop\\ADF_PRACTICE",
+			"userId": "Mahendar Lenkala",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIxZmE3OWUzNy1hYWUxLTRlMTQtODllYi1hZmRiYmZmZTgzNTQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "FILESERVERIR",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
