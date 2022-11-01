@@ -1,0 +1,9 @@
+{
+	"name": "ADFPRACTICEDEMOADB",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1b858616-c3cc-4971-ba3c-25ed287f5ae9",
+		"tenantId": "570c7e13-da8d-48c4-a3e6-d4a67955c26b"
+	}
+}
